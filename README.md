@@ -4,6 +4,7 @@
 1. clone to repository , open to the folder in vs code and open terminal
 2. execute npm i for install node moules
 3.execute to proyect with comand node index if you have install nodemon ,execute nodemon index
+4. create to file .env with string conexion
 #implementation
 With the server ready we can consume the endpoints
 
