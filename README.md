@@ -25,3 +25,5 @@ nameProduct :String
 #example
 
 http://localhost:3000/api/price?idUser=1&nameProduct=Adidas Stan Smiths
+type petition http : GET
+
